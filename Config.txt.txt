@@ -1,0 +1,2 @@
+Execution path : python BMI_solution.py -i [input json file with path] -o [Output path to dump json files]
+
